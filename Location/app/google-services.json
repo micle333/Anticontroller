@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805071002549",
+    "project_id": "anticontroller",
+    "storage_bucket": "anticontroller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805071002549:android:8b92af8751a911fffad7fc",
+        "android_client_info": {
+          "package_name": "com.example.location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805071002549-7jg0f9r3fp4m0l2k8i0tatn3jfpu31u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPzBDKfiwtUJCv75py76UzHqNrXe9ztUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805071002549-7jg0f9r3fp4m0l2k8i0tatn3jfpu31u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
