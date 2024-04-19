@@ -9,3 +9,6 @@ The functionality is very simple: if a controller is detected, click on the cent
   <img width="270" height="600" src="Location/images/preview.jpeg">
 </p>
 
+This app use your location thats why you need to give permission at first use.
+
+Your mark will disappear after 5 minutes
